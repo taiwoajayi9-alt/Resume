@@ -37,7 +37,8 @@ Most recently at [@moniepoint](https://github.com/moniepoint), I led merchant fi
 
 ### Building now
 
-- 🎓 **[Prod Loop](https://github.com/YOUR-USERNAME/prod-loop)**, a peer-learning community for product managers in Africa and beyond
+- 🌱 **[Loamy](https://github.com/taiwoajayi9-alt/Loamy)**, a plant-care web app I'm building
+- 🎓 **Prod Loop**, a peer-learning community for product managers in Africa and beyond
 - 🧠 **The AI-Native PM: Product Management with Superpowers**, a course for PMs working with AI
 - 🌍 **Where the Money Goes**, comparing what Nigeria, Ghana, Kenya, South Africa and Egypt budget vs. actually spend on power, education, health and water
 - ✍🏾 **Writing** on Africa and *Meta Africanism* at [taiajayi.africa](https://taiajayi.africa)
@@ -56,6 +57,6 @@ Most recently at [@moniepoint](https://github.com/moniepoint), I led merchant fi
 
 ---
 
-📄 **[Read my resume →](https://github.com/YOUR-USERNAME/resume)**
+📄 **[Read my resume →](https://github.com/taiwoajayi9-alt/Resume)**
 
 <p align="center"><i>Open to conversations about product leadership, fintech, AI and building in Africa.</i></p>
